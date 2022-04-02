@@ -1,2 +1,2 @@
 # cardiac_phantom
-Arduino firmware for driving a Gafchromic film using a linear actuator
+Arduino firmware for driving Gafchromic film using a linear actuator
